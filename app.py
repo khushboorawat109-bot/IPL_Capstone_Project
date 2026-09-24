@@ -5,7 +5,7 @@ import seaborn as sns
 
 st.title("🏏 IPL Data Analysis")
 
-df = pd.read_csv("ipl.csv")
+df = pd.read_csv("IPL.csv")
 
 st.subheader("IPL Dataset")
 st.dataframe(df)

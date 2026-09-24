@@ -2,6 +2,8 @@
 IPL data analysis using Python, Pandas, Matplotlib and Seaborn
 # 🏏 IPL Data Analysis
 
+LIVE DEMO : https://iplcapstoneproject.streamlit.app/
+
 An exploratory data analysis project on IPL match data using Python.
 
 ## 🛠️ Technologies Used
